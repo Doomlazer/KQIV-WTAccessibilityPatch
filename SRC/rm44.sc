@@ -326,6 +326,7 @@
 				)
 				((& (ego onControl: origin) cBLACK)
 					(if (== (ego view?) 2)
+						(ego setScript: slide) ;;;fixes softlock
 						(slide changeState: 1)
 					else
 						(ego view: 53 setCycle: Walk setStep: 1 1)
