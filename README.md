@@ -1,4 +1,4 @@
-# KQIV Whale Tongue Accessability Patch
+# KQIV Whale Tongue Accessibility Patch
  
 Verion 1.0
 
