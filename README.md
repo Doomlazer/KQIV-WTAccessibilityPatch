@@ -1,6 +1,6 @@
 # KQIV Whale Tongue Accessibility Patch
  
-Verion 2.0
+## Verion 2.0
 
 This replaces the control pic of the whale's belly making it trivial to climb. It also fixes a bug in the original game that would otherwise cause a lock up when falling off the top of the tongue.
 
@@ -8,7 +8,7 @@ V2.0 expands things to remove death by sudden stop in almost every location of t
 
 Developed using <a href="http://scicompanion.com/">SCI Companion</a>
 
-Installation:
+# Installation:
 
 The patch files can be added and removed from the KQ4 game folder as needed. They are all in the format pic.xxx and are identified below.
 
@@ -17,18 +17,28 @@ Whale belly - you must copy both pic.044 and script.044 for this location otherw
 <img src="pics/before.png"  width="500">
 <img src="pics/after.png" width="500">
 
-Haunted House
+## Haunted House
 
-Organ - file: pic.058
+### Organ - file: pic.058
 
 Note: I added a sliver of ctlGREEN on the back edge (red arrow). Don't forget to save and fall from the top! (make sure you're using the EGA320.DRV in dosbox or you will not get ShakeScreen at the bottom). The purple arrow indicates I've made the organ flush with the back wall. This makes it easy to slide in and out of the organ.
 
+before
+
 <img src="pics/pic.058before.png"  width="500">
+
+after
+
 <img src="pics/pic.058after.png" width="500">
 
 Organ stairs - file: pic.061
 
+before 
+
 <img src="pics/pic.061before.png"  width="500">
+
+after 
+
 <img src="pics/pic.061after.png" width="500">
 
 Organ bottom - file: pic.066
