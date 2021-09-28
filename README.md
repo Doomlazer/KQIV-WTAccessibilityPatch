@@ -14,8 +14,8 @@ The patch files can be added and removed from the KQ4 game folder as needed. The
 
 Whale belly - you must copy both pic.044 and script.044 for this location otherwise the game locks up after falling off the tongue. 
 
-<img src="before.png"  width="500">
-<img src="after.png" width="500">
+<img src="pics/before.png"  width="500">
+<img src="pics/after.png" width="500">
 
 Haunted House
 
@@ -23,13 +23,13 @@ Organ - file: pic.058
 
 Note: I added a sliver of ctlGREEN on the back edge (red arrow). Don't forget to save and fall from the top! (make sure you're using the EGA320.DRV in dosbox or you will not get ShakeScreen at the bottom). The purple arrow indicates I've made the organ flush with the back wall. This makes it easy to slide in and out of the organ.
 
-<img src="./pics/pic.058before.png"  width="500">
-<img src="./pics/pic.058after.png" width="500">
+<img src="pics/pic.058before.png"  width="500">
+<img src="pics/pic.058after.png" width="500">
 
 Organ stairs - file: pic.061
 
-<img src="./pics/pic.061before.png"  width="500">
-<img src="./pics/pic.061after.png" width="500">
+<img src="pics/pic.061before.png"  width="500">
+<img src="pics/pic.061after.png" width="500">
 
 Organ bottom - file: pic.066
 
