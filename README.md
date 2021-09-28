@@ -12,7 +12,7 @@ Developed using <a href="http://scicompanion.com/">SCI Companion</a>
 
 The patch files can be added and removed from the KQ4 game folder as needed. They are all in the format pic.xxx and are identified below.
 
-# Whale belly - you must copy both pic.044 and script.044 for this location otherwise the game locks up after falling off the tongue. 
+## Whale belly - you must copy both pic.044 and script.044 for this location otherwise the game locks up after falling off the tongue. 
 
 <img src="pics/before.png"  width="500">
 <img src="pics/after.png" width="500">
