@@ -87,15 +87,6 @@ after
 
 <img src="pics/pic.079after.png" width="500">
 
-### Mountain entrance - pic.030
-
-before
-
-<img src="pics/pic.030before.png"  width="500">
-
-after
-
-<img src="pics/pic.030after.png" width="500">
 
 ### Stable - pic.080
 
