@@ -2,7 +2,7 @@
  
 Verion 1.0
 
-This replaces the control pic of the whale's belly so that it's much easier to climb; just walk straight up. It also fixes a bug in the original game that would otherwise prevent this mod from working.
+This replaces the control pic of the whale's belly so that it's much easier to climb; just walk straight up. It also fixes a bug in the original game that would otherwise result in a lock up.
 
 Developed using <a href="http://scicompanion.com/">SCI Companion</a>
 
