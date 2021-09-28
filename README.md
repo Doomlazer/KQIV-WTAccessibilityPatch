@@ -22,7 +22,10 @@ Completed:
 
 Haunted House
 
-Organ
+Organ 
+
+Note: I added a sliver of ctlGREEN on the back edge (red arrow). Don't forget to save and fall from the top! (make sure you're using the EGA320.DRV in dosbox or you will not get ShakeScreen at the bottom)
+
 <img src="pic.058before.png"  width="500">
 <img src="pic.058after.png" width="500">
 
