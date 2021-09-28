@@ -30,5 +30,6 @@ Note: I added a sliver of ctlGREEN on the back edge (red arrow). Don't forget to
 <img src="pic.058after.png" width="500">
 
 Organ stairs
+
 <img src="pic.061before.png"  width="500">
 <img src="pic.061after.png" width="500">
