@@ -30,6 +30,12 @@ Organ stairs - file: pic.061
 <img src="pic.061before.png"  width="500">
 <img src="pic.061after.png" width="500">
 
+Organ bottom - file: pic.066
+
+<img src="pic.066before.png"  width="500">
+<img src="pic.066after.png" width="500">
+
+
 
 
 
