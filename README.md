@@ -12,13 +12,9 @@ Copy pic.044 and script.044 into your KQIV game folder and start the game normal
 
 <img src="before.png"  width="500">
 <img src="after.png" width="500">
-https://github.com/Doomlazer/KQIV-Whale-Tongue-Accessability-Patch
-
 
 
 I'm expanding to eventually prevent falling deaths in all situations making the keyboard a vialable option for all players. You can use as many or as few of these as desired. I've indicated which file names match to the rooms. Ignore any .png files.
-
-Completed:
 
 Haunted House
 
@@ -33,3 +29,8 @@ Organ stairs - file: pic.061
 
 <img src="pic.061before.png"  width="500">
 <img src="pic.061after.png" width="500">
+
+
+
+
+https://github.com/Doomlazer/KQIV-Whale-Tongue-Accessability-Patch
