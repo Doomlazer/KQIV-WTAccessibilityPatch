@@ -21,8 +21,6 @@ Whale belly - you must copy both pic.044 and script.044 for this location otherw
 
 ### Organ - file: pic.058
 
-Note: I added a sliver of ctlGREEN on the back edge (red arrow). Don't forget to save and fall from the top! (make sure you're using the EGA320.DRV in dosbox or you will not get ShakeScreen at the bottom). The purple arrow indicates I've made the organ flush with the back wall. This makes it easy to slide in and out of the organ.
-
 before
 
 <img src="pics/pic.058before.png"  width="500">
@@ -31,7 +29,9 @@ after
 
 <img src="pics/pic.058after.png" width="500">
 
-Organ stairs - file: pic.061
+Note: I added a sliver of ctlGREEN on the back edge (red arrow). Don't forget to save and fall from the top! (make sure you're using the EGA320.DRV in dosbox or you will not get ShakeScreen at the bottom). The purple arrow indicates I've made the organ flush with the back wall. This makes it easy to slide in and out of the organ.
+
+### Organ stairs - file: pic.061
 
 before 
 
@@ -41,60 +41,110 @@ after
 
 <img src="pics/pic.061after.png" width="500">
 
-Organ bottom - file: pic.066
+### Organ bottom - file: pic.066
+
+before 
 
 <img src="pics/pic.066before.png"  width="500">
+
+after
+
 <img src="pics/pic.066after.png" width="500">
 
 
-OCEAN
+## OCEAN
 
-Ocean cliff - pic.019
+### Ocean cliff - pic.019
+
+before
 
 <img src="pics/pic.019before.png"  width="500">
+
+after
+
 <img src="pics/pic.019after.png" width="500">
 
 
-Lolotte's castle
+## Lolotte's castle
 
-Mountain entrance - pic.030
+### Mountain entrance - pic.030
+
+before
 
 <img src="pics/pic.030before.png"  width="500">
+
+after
+
 <img src="pics/pic.030after.png" width="500">
 
-Mountain path - pic.079 and pic.179 (night)
+### Mountain path - pic.079 and pic.179 (night)
+
+before
 
 <img src="pics/pic.079before.png"  width="500">
+
+after
+
 <img src="pics/pic.079after.png" width="500">
 
-Mountain entrance - pic.030
+### Mountain entrance - pic.030
+
+before
 
 <img src="pics/pic.030before.png"  width="500">
+
+after
+
 <img src="pics/pic.030after.png" width="500">
 
-Stable - pic.080
+### Stable - pic.080
+
+before
 
 <img src="pics/pic.080before.png"  width="500">
+
+after
+
 <img src="pics/pic.080after.png" width="500">
 
-Stairwell 85 - pic.085
+### Stairwell 85 - pic.085
+
+before
 
 <img src="pics/pic.085before.png"  width="500">
+
+after
+
 <img src="pics/pic.085after.png" width="500">
 
-Stairwell 88 - pic.088
+### Stairwell 88 - pic.088
+
+before
 
 <img src="pics/pic.088before.png"  width="500">
+
+after
+
 <img src="pics/pic.088after.png" width="500">
 
-Stairwell 90 - pic.090
+### Stairwell 90 - pic.090
+
+before
 
 <img src="pics/pic.090before.png"  width="500">
+
+after
+
 <img src="pics/pic.090after.png" width="500">
 
-Stairwell 93 - pic.093
+### Stairwell 93 - pic.093
+
+before
 
 <img src="pics/pic.093before.png"  width="500">
+
+after
+
 <img src="pics/pic.093after.png" width="500">
 
 
