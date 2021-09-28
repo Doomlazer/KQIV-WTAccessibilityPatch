@@ -4,7 +4,7 @@
 
 This replaces the control pic of the whale's belly making it trivial to climb. It also fixes a bug in the original game that would otherwise cause a lock up when falling off the top of the tongue.
 
-V2.0 expands things to remove death by sudden stop in almost every location of the game with one intentional exception. With
+V2.0 expands things to remove death by falling in almost every location of the game, with one intentional exception.
 
 Developed using <a href="http://scicompanion.com/">SCI Companion</a>
 
