@@ -2,7 +2,7 @@
  
 Verion 1.0
 
-This replaces the control pic of the whale's belly making it easier to climb. Climb straight up. It also fixes a bug in the original game that would otherwise cause a lock up when falling off the top of the tongue.
+This replaces the control pic of the whale's belly making it trivial to climb. It also fixes a bug in the original game that would otherwise cause a lock up when falling off the top of the tongue.
 
 Developed using <a href="http://scicompanion.com/">SCI Companion</a>
 
