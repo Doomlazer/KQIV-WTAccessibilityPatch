@@ -23,13 +23,13 @@ Organ - file: pic.058
 
 Note: I added a sliver of ctlGREEN on the back edge (red arrow). Don't forget to save and fall from the top! (make sure you're using the EGA320.DRV in dosbox or you will not get ShakeScreen at the bottom). The purple arrow indicates I've made the organ flush with the back wall. This makes it easy to slide in and out of the organ.
 
-<img src="/pics/pic.058before.png"  width="500">
-<img src="pics/pic.058after.png" width="500">
+<img src="./pics/pic.058before.png"  width="500">
+<img src="./pics/pic.058after.png" width="500">
 
 Organ stairs - file: pic.061
 
-<img src="pics/pic.061before.png"  width="500">
-<img src="pics/pic.061after.png" width="500">
+<img src="./pics/pic.061before.png"  width="500">
+<img src="./pics/pic.061after.png" width="500">
 
 Organ bottom - file: pic.066
 
