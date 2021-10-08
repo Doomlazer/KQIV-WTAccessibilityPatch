@@ -1,6 +1,6 @@
 # KQIV Whale Tongue Accessibility Patch
  
-## Verion 2.0
+## Verion 2.1
 
 This replaces the control pic of the whale's belly making it trivial to climb. It also fixes a bug in the original game that would otherwise cause a lock up when falling off the top of the tongue.
 
@@ -137,6 +137,8 @@ before
 after
 
 <img src="pics/pic.093after.png" width="500">
+
+NOTICE: the dwarf mine patch files are included as of v2.2, but not pictured here.
 
 
 https://github.com/Doomlazer/KQIV-Whale-Tongue-Accessability-Patch
