@@ -130,7 +130,7 @@ after
 
 <img src="pics/pic.093after.png" width="500">
 
-### Mine Interior - pic.055
+### Mine entrance - pic.055
 
 before
 
@@ -139,6 +139,16 @@ before
 after
 
 <img src="pics/pic.055after.png" width="500">
+
+### Mine Interior - pic.028
+
+before
+
+<img src="pics/pic.028before.png"  width="500">
+
+after
+
+<img src="pics/pic.028after.png" width="500">
 
 
 
