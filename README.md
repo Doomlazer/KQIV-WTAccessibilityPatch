@@ -1,16 +1,22 @@
 # KQIV Whale Tongue Accessibility Patch
  
-## Verion 2.1
+## Verion 3
 
 This replaces the control pic of the whale's belly making it trivial to climb. It also fixes a bug in the original game that would otherwise cause a lock up when falling off the top of the tongue.
 
 V2.0 expands things to remove death by falling in almost every location of the game, with one intentional exception.
 
+v3.0 now supports the floppy version of KQ4 as well. Most user will have the disk version, but see 'Floppy Version Patches\FloppyInstructions.txt' for details.
+ 
+It also removes the ocean cliffs, as they are only mildly dangerous and it doesn't work quite right because of overlaping control colors. If they need be put back into the mod for accessability reasons, please let me know.
+
+
+
 Developed using <a href="http://scicompanion.com/">SCI Companion</a>
 
 # Installation:
 
-The patch files can be added and removed from the KQ4 game folder as needed. They are all in the format pic.xxx and are identified below.
+The patch files can be added and removed from the KQ4 game folder as needed. They are all in the format pic.xxx and are identified below. Most users can ignore the 'Floppy Version Patches' folder.
 
 ## Whale belly - you must copy both pic.044 and script.044 for this location otherwise the game locks up after falling off the tongue. 
 
@@ -50,20 +56,6 @@ before
 after
 
 <img src="pics/pic.066after.png" width="500">
-
-
-## OCEAN
-
-### Ocean cliff - pic.019
-
-before
-
-<img src="pics/pic.019before.png"  width="500">
-
-after
-
-<img src="pics/pic.019after.png" width="500">
-
 
 ## Lolotte's castle
 
@@ -138,7 +130,17 @@ after
 
 <img src="pics/pic.093after.png" width="500">
 
-NOTICE: the dwarf mine patch files are included as of v2.2, but not pictured here.
+### Mine Interior - pic.055
+
+before
+
+<img src="pics/pic.055before.png"  width="500">
+
+after
+
+<img src="pics/pic.055after.png" width="500">
+
+
 
 
 https://github.com/Doomlazer/KQIV-Whale-Tongue-Accessability-Patch
