@@ -1,6 +1,6 @@
 # KQIV Whale Tongue Accessibility Patch
  
-## Verion 3
+## Version 3
 
 This replaces the control pic of the whale's belly making it trivial to climb. It also fixes a bug in the original game that would otherwise cause a lock up when falling off the top of the tongue.
 
@@ -130,17 +130,7 @@ after
 
 <img src="pics/pic.093after.png" width="500">
 
-### Mine entrance - pic.055
-
-before
-
-<img src="pics/pic.055before.png"  width="500">
-
-after
-
-<img src="pics/pic.055after.png" width="500">
-
-### Mine Interior - pic.028
+### Mine entrance - pic.028
 
 before
 
@@ -149,6 +139,16 @@ before
 after
 
 <img src="pics/pic.028after.png" width="500">
+
+### Mine Interior - pic.055
+
+before
+
+<img src="pics/pic.055before.png"  width="500">
+
+after
+
+<img src="pics/pic.055after.png" width="500">
 
 
 
